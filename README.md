@@ -99,7 +99,7 @@ Currently working on an **ERP ecosystem**, with experience ranging from producti
 
 </div>
 
-<sub>Top languages measure repository contents, not how many times I have stared at a Go compiler error.</sub>
+<sub>wowww, so many contributions. someone give this guy engineer of the year already.</sub>
 
 ---
 
@@ -108,8 +108,6 @@ Currently working on an **ERP ecosystem**, with experience ranging from producti
 ### Have a problem worth giving a clear shape?
 
 **[mahesa-yuztar.vercel.app](https://mahesa-yuztar.vercel.app)**
-
-<sub>Build → break → understand → build it slightly less breakable.</sub>
 
 <br/>
 
