@@ -103,20 +103,6 @@ Currently working on an **ERP ecosystem**, with experience ranging from producti
 
 ---
 
-## ♠ Outside the editor
-
-Competitive bridge has been around for a while.
-
-Which probably explains why I enjoy:
-
-**state, rules, incomplete information, and blaming myself after making the technically legal move.**
-
-I've also spent time around robotics, teaching algorithms, infrastructure monitoring, and software competitions.
-
-Different domains. Surprisingly similar debugging.
-
----
-
 <div align="center">
 
 ### Have a problem worth giving a clear shape?
