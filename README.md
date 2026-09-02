@@ -99,7 +99,7 @@ Currently working on an **ERP ecosystem**, with experience ranging from producti
 
 </div>
 
-<sub>wowww, so many contributions. someone give this guy engineer of the year already.</sub>
+<sub>wowww, so many contributions. ofc john ternus is gonna suck my toes seeing this.</sub>
 
 ---
 
