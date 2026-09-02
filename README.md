@@ -163,11 +163,7 @@ Currently working on an **ERP ecosystem**, with experience ranging from producti
 
 <img src="./profile/stats.svg" height="165" alt="Mahesa's GitHub Stats" /> &nbsp; <img src="./profile/top-langs.svg" height="165" alt="Mahesa's Top Languages" />
 
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=mahesayuztar&hide_border=true" />
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=mahesayuztar&style=flat-square&label=people+who+somehow+ended+up+here" />
 
