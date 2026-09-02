@@ -7,10 +7,21 @@
 </a>
 
 <br/>
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://mahesa-yuztar.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahesa_Yuztar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mahesa-yuztar)
-[![GitHub](https://img.shields.io/badge/GitHub-mahesayuztar-181717?style=for-the-badge\&logo=github)](https://github.com/mahesayuztar)
+<a href="https://mahesa-yuztar.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mahesa-yuztar" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/mahesayuztar" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
 
 </div>
 
