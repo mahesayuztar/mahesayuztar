@@ -72,86 +72,16 @@ Currently working on an **ERP ecosystem**, with experience ranging from producti
 </table>
 
 ---
+
 ### 🧩 Selected work
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="25%">Project</th>
-      <th align="left" width="75%">Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <strong><a href="https://bridgeyok-web.vercel.app">BridgeYok ↗</a></strong>
-      </td>
-      <td>
-        Go <img src="https://cdn.simpleicons.org/go/57606A/8B949E" height="15" alt="Go" />
-        &nbsp;·&nbsp;
-        Next.js <img src="https://cdn.simpleicons.org/nextdotjs/57606A/8B949E" height="15" alt="Next.js" />
-        &nbsp;·&nbsp;
-        TypeScript <img src="https://cdn.simpleicons.org/typescript/57606A/8B949E" height="15" alt="TypeScript" />
-        &nbsp;·&nbsp;
-        PostgreSQL <img src="https://cdn.simpleicons.org/postgresql/57606A/8B949E" height="15" alt="PostgreSQL" />
-        &nbsp;·&nbsp;
-        Redis <img src="https://cdn.simpleicons.org/redis/57606A/8B949E" height="15" alt="Redis" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong><a href="https://mahesa-yuztar.vercel.app">Portfolio ↗</a></strong>
-      </td>
-      <td>
-        Next.js <img src="https://cdn.simpleicons.org/nextdotjs/57606A/8B949E" height="15" alt="Next.js" />
-        &nbsp;·&nbsp;
-        React <img src="https://cdn.simpleicons.org/react/57606A/8B949E" height="15" alt="React" />
-        &nbsp;·&nbsp;
-        TypeScript <img src="https://cdn.simpleicons.org/typescript/57606A/8B949E" height="15" alt="TypeScript" />
-        &nbsp;·&nbsp;
-        Tailwind CSS <img src="https://cdn.simpleicons.org/tailwindcss/57606A/8B949E" height="15" alt="Tailwind CSS" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong><a href="https://budgeting-khaki.vercel.app">Budgeting ↗</a></strong>
-      </td>
-      <td>
-        Next.js <img src="https://cdn.simpleicons.org/nextdotjs/57606A/8B949E" height="15" alt="Next.js" />
-        &nbsp;·&nbsp;
-        Prisma <img src="https://cdn.simpleicons.org/prisma/57606A/8B949E" height="15" alt="Prisma" />
-        &nbsp;·&nbsp;
-        PostgreSQL <img src="https://cdn.simpleicons.org/postgresql/57606A/8B949E" height="15" alt="PostgreSQL" />
-        &nbsp;·&nbsp;
-        Supabase <img src="https://cdn.simpleicons.org/supabase/57606A/8B949E" height="15" alt="Supabase" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong><a href="https://fruit-guard.netlify.app">FruitGuard+ ↗</a></strong>
-      </td>
-      <td>
-        HTML5 <img src="https://cdn.simpleicons.org/html5/57606A/8B949E" height="15" alt="HTML5" />
-        &nbsp;·&nbsp;
-        Tailwind CSS <img src="https://cdn.simpleicons.org/tailwindcss/57606A/8B949E" height="15" alt="Tailwind CSS" />
-        &nbsp;·&nbsp;
-        JavaScript <img src="https://cdn.simpleicons.org/javascript/57606A/8B949E" height="15" alt="JavaScript" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong><a href="https://github.com/mahesayuztar/mentorin-education">Mentorin ↗</a></strong>
-      </td>
-      <td>
-        Laravel <img src="https://cdn.simpleicons.org/laravel/57606A/8B949E" height="15" alt="Laravel" />
-        &nbsp;·&nbsp;
-        PHP <img src="https://cdn.simpleicons.org/php/57606A/8B949E" height="15" alt="PHP" />
-        &nbsp;·&nbsp;
-        MySQL <img src="https://cdn.simpleicons.org/mysql/57606A/8B949E" height="15" alt="MySQL" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Project                                                              | Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| :------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[BridgeYok ↗](https://bridgeyok-web.vercel.app)**                  | Go <img src="https://cdn.simpleicons.org/go/57606A" width="15" height="15" />   ·   Next.js <img src="https://cdn.simpleicons.org/nextdotjs/57606A" width="15" height="15" />   ·   TypeScript <img src="https://cdn.simpleicons.org/typescript/57606A" width="15" height="15" />   ·   PostgreSQL <img src="https://cdn.simpleicons.org/postgresql/57606A" width="15" height="15" />   ·   Redis <img src="https://cdn.simpleicons.org/redis/57606A" width="15" height="15" /> |
+| **[Portfolio ↗](https://mahesa-yuztar.vercel.app)**                  | Next.js <img src="https://cdn.simpleicons.org/nextdotjs/57606A" width="15" height="15" />   ·   React <img src="https://cdn.simpleicons.org/react/57606A" width="15" height="15" />   ·   TypeScript <img src="https://cdn.simpleicons.org/typescript/57606A" width="15" height="15" />   ·   Tailwind CSS <img src="https://cdn.simpleicons.org/tailwindcss/57606A" width="15" height="15" />                                                                                  |
+| **[Budgeting ↗](https://budgeting-khaki.vercel.app)**                | Next.js <img src="https://cdn.simpleicons.org/nextdotjs/57606A" width="15" height="15" />   ·   Prisma <img src="https://cdn.simpleicons.org/prisma/57606A" width="15" height="15" />   ·   PostgreSQL <img src="https://cdn.simpleicons.org/postgresql/57606A" width="15" height="15" />   ·   Supabase <img src="https://cdn.simpleicons.org/supabase/57606A" width="15" height="15" />                                                                                       |
+| **[FruitGuard+ ↗](https://fruit-guard.netlify.app)**                 | HTML5 <img src="https://cdn.simpleicons.org/html5/57606A" width="15" height="15" />   ·   JavaScript <img src="https://cdn.simpleicons.org/javascript/57606A" width="15" height="15" />   ·   Tailwind CSS <img src="https://cdn.simpleicons.org/tailwindcss/57606A" width="15" height="15" />                                                                                                                                                                                  |
+| **[Mentorin ↗](https://github.com/mahesayuztar/mentorin-education)** | Laravel <img src="https://cdn.simpleicons.org/laravel/57606A" width="15" height="15" />   ·   PHP <img src="https://cdn.simpleicons.org/php/57606A" width="15" height="15" />   ·   MySQL <img src="https://cdn.simpleicons.org/mysql/57606A" width="15" height="15" />                                                                                                                                                                                                         |
 
 <sub>There are also robots, ML experiments, enterprise systems, and a suspicious number of repositories created after midnight.</sub>
 
