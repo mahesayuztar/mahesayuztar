@@ -20,7 +20,7 @@
 
 I'm a **Software Engineer** who enjoys turning messy requirements into systems that are easier to understand, maintain, and scale.
 
-I mostly live around **backend systems, business logic, APIs, databases, and infrastructure** — but I occasionally convince React components to behave too.
+I mostly live around **backend systems, business logic, APIs, databases, and infrastructure**, but I occasionally convince React components to behave too.
 
 Currently working on an **ERP ecosystem**, with experience ranging from production Laravel applications and financial systems to industrial infrastructure, robotics, data, and teaching programming.
 
@@ -72,59 +72,98 @@ Currently working on an **ERP ecosystem**, with experience ranging from producti
 </table>
 
 ---
-
 ### 🧩 Selected work
 
-|      | Project                                                            | What it does                                                   | Stack                          |
-| ---- | ------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------ |
-| `01` | **Budgeting**                                                      | Personal finance, transactions, savings, debts & analytics.    | Next.js · Prisma · Supabase    |
-| `02` | **ERP**                                                            | Finance, sales, procurement, inventory & enterprise workflows. | Laravel · Next.js · SQL Server |
-| `03` | **Website Builder**                                                | Extensible website platform built around reusable components.  | Laravel · Next.js · PostgreSQL |
-| `04` | **[Mentorin](https://github.com/mahesayuztar/mentorin-education)** | CBT platform for entrance-exam preparation.                    | Laravel · MySQL                |
-| `05` | **[Skin LVQ](https://github.com/mahesayuztar/skin-lvq)**           | Skin-disease classification experiment using LVQ.              | Python · Streamlit · Jupyter   |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="25%">Project</th>
+      <th align="left" width="75%">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong><a href="https://bridgeyok-web.vercel.app">BridgeYok ↗</a></strong>
+      </td>
+      <td>
+        Go <img src="https://cdn.simpleicons.org/go/57606A/8B949E" height="15" alt="Go" />
+        &nbsp;·&nbsp;
+        Next.js <img src="https://cdn.simpleicons.org/nextdotjs/57606A/8B949E" height="15" alt="Next.js" />
+        &nbsp;·&nbsp;
+        TypeScript <img src="https://cdn.simpleicons.org/typescript/57606A/8B949E" height="15" alt="TypeScript" />
+        &nbsp;·&nbsp;
+        PostgreSQL <img src="https://cdn.simpleicons.org/postgresql/57606A/8B949E" height="15" alt="PostgreSQL" />
+        &nbsp;·&nbsp;
+        Redis <img src="https://cdn.simpleicons.org/redis/57606A/8B949E" height="15" alt="Redis" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong><a href="https://mahesa-yuztar.vercel.app">Portfolio ↗</a></strong>
+      </td>
+      <td>
+        Next.js <img src="https://cdn.simpleicons.org/nextdotjs/57606A/8B949E" height="15" alt="Next.js" />
+        &nbsp;·&nbsp;
+        React <img src="https://cdn.simpleicons.org/react/57606A/8B949E" height="15" alt="React" />
+        &nbsp;·&nbsp;
+        TypeScript <img src="https://cdn.simpleicons.org/typescript/57606A/8B949E" height="15" alt="TypeScript" />
+        &nbsp;·&nbsp;
+        Tailwind CSS <img src="https://cdn.simpleicons.org/tailwindcss/57606A/8B949E" height="15" alt="Tailwind CSS" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong><a href="https://budgeting-khaki.vercel.app">Budgeting ↗</a></strong>
+      </td>
+      <td>
+        Next.js <img src="https://cdn.simpleicons.org/nextdotjs/57606A/8B949E" height="15" alt="Next.js" />
+        &nbsp;·&nbsp;
+        Prisma <img src="https://cdn.simpleicons.org/prisma/57606A/8B949E" height="15" alt="Prisma" />
+        &nbsp;·&nbsp;
+        PostgreSQL <img src="https://cdn.simpleicons.org/postgresql/57606A/8B949E" height="15" alt="PostgreSQL" />
+        &nbsp;·&nbsp;
+        Supabase <img src="https://cdn.simpleicons.org/supabase/57606A/8B949E" height="15" alt="Supabase" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong><a href="https://fruit-guard.netlify.app">FruitGuard+ ↗</a></strong>
+      </td>
+      <td>
+        HTML5 <img src="https://cdn.simpleicons.org/html5/57606A/8B949E" height="15" alt="HTML5" />
+        &nbsp;·&nbsp;
+        Tailwind CSS <img src="https://cdn.simpleicons.org/tailwindcss/57606A/8B949E" height="15" alt="Tailwind CSS" />
+        &nbsp;·&nbsp;
+        JavaScript <img src="https://cdn.simpleicons.org/javascript/57606A/8B949E" height="15" alt="JavaScript" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/mahesayuztar/mentorin-education">Mentorin ↗</a></strong>
+      </td>
+      <td>
+        Laravel <img src="https://cdn.simpleicons.org/laravel/57606A/8B949E" height="15" alt="Laravel" />
+        &nbsp;·&nbsp;
+        PHP <img src="https://cdn.simpleicons.org/php/57606A/8B949E" height="15" alt="PHP" />
+        &nbsp;·&nbsp;
+        MySQL <img src="https://cdn.simpleicons.org/mysql/57606A/8B949E" height="15" alt="MySQL" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<sub>There are also robots, games, ML experiments, and several repositories created during my "surely this won't take all night" era.</sub>
+<sub>There are also robots, ML experiments, enterprise systems, and a suspicious number of repositories created after midnight.</sub>
 
 ---
 
-### 🧠 A bit beyond CRUD
-
-```text
-requirements
-    ↓
-domain rules
-    ↓
-architecture
-    ↓
-implementation
-    ↓
-"why is production doing that?"
-    ↓
-observability
-    ↓
-better architecture
-```
-
-I enjoy working around:
-
-* business & financial logic
-* API and backend architecture
-* database design
-* realtime systems
-* infrastructure & deployment
-* requirement analysis
-* debugging things that were "working yesterday"
-
----
-
-### 📊 GitHub, according to GitHub
+## 📊 GitHub things
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahesayuztar&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesayuztar&layout=compact&hide_border=true&langs_count=8" />
+<img src="./profile/stats.svg" height="165" alt="Mahesa's GitHub Stats" /> &nbsp; <img src="./profile/top-langs.svg" height="165" alt="Mahesa's Top Languages" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=mahesayuztar&hide_border=true" />
 
@@ -134,15 +173,21 @@ I enjoy working around:
 
 </div>
 
-<sub>Language statistics measure repository bytes, not how emotionally attached I am to Golang.</sub>
+<sub>Top languages measure repository contents, not how many times I have stared at a Go compiler error.</sub>
 
 ---
 
-### 🃏 When I'm not debugging
+## ♠ Outside the editor
 
-Sometimes I'm around **competitive bridge, robotics, teaching, or trying to understand a system deeply enough that the implementation becomes obvious.**
+Competitive bridge has been around for a while.
 
-The last one rarely works on the first try.
+Which probably explains why I enjoy:
+
+**state, rules, incomplete information, and blaming myself after making the technically legal move.**
+
+I've also spent time around robotics, teaching algorithms, infrastructure monitoring, and software competitions.
+
+Different domains. Surprisingly similar debugging.
 
 ---
 
